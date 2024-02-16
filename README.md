@@ -4,11 +4,12 @@ Fast React Pizza Co. is your go-to React-powered pizza menu app, designed for th
 
 🔥 Features:
 
-🎨 Sleek Interface: Our UI/UX design ensures a seamless and delightful ordering experience.
-🍴 Extensive Menu: From classic favorites to innovative creations, explore our diverse range of pizzas.
-🚀 Lightning-Fast Performance: Powered by React, our app guarantees swift loading times and smooth navigation.
-💳 Secure Payments: Enjoy peace of mind with our secure payment gateway.
-📱 Responsive Design: Order anytime, anywhere with our mobile-friendly platform.
+## 🎨 Sleek Interface: Our UI/UX design ensures a seamless and delightful ordering experience.
+## 🍴 Extensive Menu: From classic favorites to innovative creations, explore our diverse range of pizzas.
+## 🚀 Lightning-Fast Performance: Powered by React, our app guarantees swift loading times and smooth navigation.
+## 📱 Responsive Design: Order anytime, anywhere with our mobile-friendly platform.
+
+
 🌟 Why Fast React Pizza Co.?
 At Fast React Pizza Co., we believe in delivering not just pizzas, but experiences. With our lightning-fast app, you can satisfy your cravings in record time, without compromising on quality.
 
